@@ -7,7 +7,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 22/1008688  |  Pedro Paulo Santos Almeida |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0108875  |  Rodrigo Mattos de Figueiredo Ayres Bezerra |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
