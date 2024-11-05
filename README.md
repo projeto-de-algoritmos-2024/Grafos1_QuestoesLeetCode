@@ -15,12 +15,21 @@ O nosso é um projeto de questões do juíz online leetCode, que é um ambiente 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
+**Questão 2192**
+![2192](Questao-2192/assents/questãomedia.png)
+
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++<br>
+
 
 ## Uso 
 Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisar a questão na aba de perguntas e copiar a solução indica e testar no local apropriado no site.
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+| N° Questão | Descrição questão | Dificuldade |
+| --- | ------- | ---------- |
+| 2192 | All Ancestors of a Node in a Directed Acyclic Graph  |   Média |
+| xxxx    | xxxxx   |   xxxxx       |
+| xxxx    | xxxxx   |   xxxxx       |
+| xxxx    | xxxxx   |   xxxxx       |
+| xxxx    | xxxxx   |   xxxxx       |
+| xxxx    | xxxxx   |   xxxxx       |
