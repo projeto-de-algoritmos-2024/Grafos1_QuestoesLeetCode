@@ -21,6 +21,9 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 **Questão 133**
 ![133](Questao-133/assents/questaoCloneGraph.png)
 
+**Questão 332**
+![332](Questao-332/assents/questaoItinerary.png)
+
 ## Instalação 
 **Linguagem**: C++<br>
 
@@ -32,7 +35,7 @@ Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisa
 | --- | ------- | ---------- |
 | 2192 | All Ancestors of a Node in a Directed Acyclic Graph  |   Média |
 | 133  | Clone Graph   |   Média       |
-| xxxx    | xxxxx   |   xxxxx       |
+| 332  | Reconstruct Itinerary   |   Difícil      |
 | xxxx    | xxxxx   |   xxxxx       |
 | xxxx    | xxxxx   |   xxxxx       |
 | xxxx    | xxxxx   |   xxxxx       |
