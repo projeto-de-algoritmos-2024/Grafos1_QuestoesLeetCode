@@ -24,6 +24,9 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 **Questão 332**
 ![332](Questao-332/assents/questaoItinerary.png)
 
+**Questão 2360**
+![2360](Questao-2360/2360.png)
+
 ## Instalação 
 **Linguagem**: C++<br>
 
@@ -36,6 +39,6 @@ Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisa
 | 2192 | All Ancestors of a Node in a Directed Acyclic Graph  |   Média |
 | 133  | Clone Graph   |   Média       |
 | 332  | Reconstruct Itinerary   |   Difícil      |
-| xxxx    | xxxxx   |   xxxxx       |
+| 2360    | Longest Cycle in a Graph   |   Difícil       |
 | xxxx    | xxxxx   |   xxxxx       |
 | xxxx    | xxxxx   |   xxxxx       |
