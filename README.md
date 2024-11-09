@@ -30,6 +30,9 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 **Questão 1761**
 ![1761](Questao-1761/assents/1761.png)
 
+**Questão 2065**
+![2065](Questao-2065/assents/2065.png)
+
 ## Instalação 
 **Linguagem**: C++<br>
 
@@ -44,4 +47,4 @@ Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisa
 | 332  | Reconstruct Itinerary   |   Difícil      |
 | 2360    | Longest Cycle in a Graph   |   Difícil       |
 | 1761    | Minimum Degree of a Connected Trio in a Graph  |   Difícil       |
-| xxxx    | xxxxx   |   xxxxx       |
+| 2065    | Maximum Path Quality of a Graph   |   Difícil       |
