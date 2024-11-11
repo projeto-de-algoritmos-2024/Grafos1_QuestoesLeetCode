@@ -13,7 +13,7 @@
 O nosso é um projeto de questões do juíz online leetCode, que é um ambiente onde fornece questões de diversos tipos como do mais fácil ao mais difícil para uma boa compreensão sobre os gráfos. Todas as questões estão disṕníveis para qualquer pessoa que deseja ver. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
 
 **Questão 2192**
 ![2192](Questao-2192/assents/questãomedia.png)
@@ -39,6 +39,11 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Uso 
 Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisar a questão na aba de perguntas e copiar a solução indica e testar no local apropriado no site.
+
+## Vídeo 
+O vídeo da entrega explicando o trabalho está aqui. Toque abaixo para acessar.
+
+- [Entrega_01](https://youtu.be/YKng0v1eb14)
 ## Outros 
 | N° Questão | Descrição questão | Dificuldade |
 | --- | ------- | ---------- |
